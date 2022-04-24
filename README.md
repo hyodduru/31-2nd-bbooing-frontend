@@ -87,10 +87,10 @@
 
 #### 3. 강좌리스트 페이지 - query string 활용한 다양한 기능 구현
 - 다중 필터 기능 구현 
-useLocation().search, useEffect, useState, navigate 활용
+   - useLocation().search, useEffect, useState, navigate 활용
 
-필터 적용이라는 버튼을 누를 때마다 체크된 리스트로 쿼리스트링을 만들고 navigate를 이용하여 해당 url로 이동을 한다. 
-카드 정보를 얻는 함수의 의존성 배열에 useLocation().search를 넣어줌으로써 url이 변경할 때마다 필터된 정보를 요청하도록 함. <br />
+   - 필터 적용이라는 버튼을 누를 때마다 체크된 리스트로 쿼리스트링을 만들고 navigate를 이용하여 해당 url로 이동을 한다. 
+   - 카드 정보를 얻는 함수의 의존성 배열에 useLocation().search를 넣어줌으로써 url이 변경할 때마다 필터된 정보를 요청하도록 함. <br />
 - pagination 기능 구현 (12개 씩 정보 요청)
 pagination을 위해 필요한 offset과 limit 값을 state로 관리를 해주고 해당 값이 변할 때마다 리렌더링이 일어날 수 있도록 함.
 또한 pagination 버튼은 요청해서 받아온 정보가 12개 일 때 (12개가 최대) 또는 두번째 페이지가 되었을 때 보이게끔 조건식을 걸어두었다. <br />
@@ -98,7 +98,7 @@ pagination을 위해 필요한 offset과 limit 값을 state로 관리를 해주�
 외부 dom 바깥을 감지해주는 useOutSideClick이라는 custom hook도 만들어 카테고리 부분 바깥을 눌렀을 때 체크리스트가 보이지 않게끔 기능 구현을 해주었다.
 
 #### 4. 리뷰 이미지 업로드 기능 
-formData.append()를 활용하여 이미지와 글을 함께 업로드하는 기능 구현
+- formData.append()를 활용하여 이미지와 글을 함께 업로드하는 기능 구현
 <h2>Reference</h2>
 
 * 이 프로젝트는 탈잉 사이트를 참조하여 학습목적으로 만들었습니다.
