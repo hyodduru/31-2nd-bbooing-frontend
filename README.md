@@ -6,6 +6,7 @@
 * 프로젝트 주제 : 커머스 웹사이트 클론 코딩하기 
 * 클론 코딩한 웹사이트 : 탈잉 https://taling.me/
 * 구성 : Front-end 4명(구본희, 김정수, 김효정, 임재혁) Back-end 2명(류미류, 이강호)
+* 프로젝트 웹사이트 링크 : http://bbooingbbooing.s3-website.ap-northeast-2.amazonaws.com/
 
 
 <h2>Demo</h2>
