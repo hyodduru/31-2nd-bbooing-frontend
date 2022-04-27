@@ -7,6 +7,7 @@
 * 클론 코딩한 웹사이트 : 탈잉 https://taling.me/
 * 구성 : Front-end 4명(구본희, 김정수, 김효정, 임재혁) Back-end 2명(류미류, 이강호)
 * 프로젝트 웹사이트 링크 : http://bbooingbbooing.s3-website.ap-northeast-2.amazonaws.com/
+* 프로젝트 회고록 : https://velog.io/@hoje15v/React-%ED%83%88%EC%9E%89-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D
 
 
 <h2>Demo</h2>
