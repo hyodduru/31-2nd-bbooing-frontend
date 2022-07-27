@@ -3,7 +3,7 @@
 
 
 * 프로젝트 진행 기간 : 4월 11일 ~ 4월 22일
-* 프로젝트 주제 : 탈일 웹사이트를 모티브로 한 취미 교육 플랫폼 만들기 
+* 프로젝트 주제 : 탈잉 웹사이트를 모티브로 한 취미  플랫폼 만들기 
 * 클론 코딩한 웹사이트 : 탈잉 https://taling.me/
 * 구성 : Front-end 4명(구본희, 김정수, 김효정, 임재혁) Back-end 2명(류미류, 이강호)
 * 프로젝트 웹사이트 링크 : http://bbooingbbooing.s3-website.ap-northeast-2.amazonaws.com/
